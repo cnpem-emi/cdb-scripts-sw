@@ -1,7 +1,7 @@
 # cdb-scripts-sw
 This reposiry serves to faster create inventory into the database (CDB).
-Please, after changes in excel files, update information in [sharepoint](https://cnpemcamp.sharepoint.com/sites/sei).
-Scripts read in python 2.7.
+Please, after changes in excel files, update information in [sharepoint](https://cnpemcamp.sharepoint.com/sites/sei)(Access permission only authorized account).
+
 # Information
 
 ##### The API works for Windows Subsystem Linux or an actual Linux system
