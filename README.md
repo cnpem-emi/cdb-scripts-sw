@@ -1,5 +1,5 @@
 # cdb-scripts-sw
-This reposiry serves to faster create inventory into the database (CDB).
+This repository serves to faster create inventory into the database (CDB).
 Please, after changes in excel files, update information in [sharepoint](https://cnpemcamp.sharepoint.com/sites/sei) (Access permission only authorized account).
 
 # Information
